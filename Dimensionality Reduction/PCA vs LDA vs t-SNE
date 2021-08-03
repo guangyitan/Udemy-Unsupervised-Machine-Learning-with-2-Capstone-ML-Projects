@@ -1,0 +1,8 @@
+Principal Component Analysis (PCA)
+PCA is an unsupervised machine learning method that is used for dimensionality reduction. The main idea of principal component analysis (PCA) is to reduce the dimensionality of a data set consisting of many variables correlated with each other, either heavily or lightly, while retaining the variation present in the dataset, up to the maximum extent.
+
+Linear Discriminant Analysis (LDA)
+LDA is a supervised machine learning method that is used to separate two groups/classes. The main idea of linear discriminant analysis(LDA) is to maximize the separability between the two groups so that we can make the best decision to classify them. LDA is like PCA which helps in dimensionality reduction, but it focuses on maximizing the separability among known categories by creating a new linear axis and projecting the data points on that axis.
+
+T-Distributed Stochastic Neighbour Embedding (T-SNE)
+T-SNE is specifically used for visualization purposes only. It is well suited for the visualization of high-dimensional datasets.
